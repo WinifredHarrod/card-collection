@@ -1,0 +1,1 @@
+﻿# Node\nnode_modules/\n**/node_modules/\n\n# Frontend build\nfrontend/dist/\n\n# Hardhat artifacts and cache\nbackend/artifacts/\nbackend/cache/\n\n# OS files\n.DS_Store\nThumbs.db\n
