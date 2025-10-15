@@ -17,3 +17,5 @@ func.id = "deploy_cardcollection"; // prevent reexecution
 func.tags = ["CardCollection"];
 
 
+
+// output tweak
