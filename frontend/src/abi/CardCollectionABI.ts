@@ -905,3 +905,5 @@ export const CardCollectionABI = {
     }
   ]
 } as const;
+
+// abi docs
