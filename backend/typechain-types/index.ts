@@ -54,3 +54,5 @@ export type { Strings } from "./@openzeppelin/contracts/utils/Strings";
 export { Strings__factory } from "./factories/@openzeppelin/contracts/utils/Strings__factory";
 export type { CardCollection } from "./contracts/CardCollection";
 export { CardCollection__factory } from "./factories/contracts/CardCollection__factory";
+
+// export tweak
